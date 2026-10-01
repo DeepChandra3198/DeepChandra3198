@@ -29,7 +29,7 @@ Node.js • Express.js • JavaScript • REST APIs • Prisma • Mongoose
 
 ### Frontend
 
-React.js • JavaScript • HTML • CSS • EJS
+React.js • Next.js • JavaScript • HTML • CSS • EJS
 
 ### Databases
 
